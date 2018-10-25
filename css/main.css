@@ -5,7 +5,12 @@ h1 {
   font-size: 3rem;
 }
 
-head {
+header {
   background-color:#ffe500;
+
+}
+
+body {
+  background-color:#ffffff;
 
 }
